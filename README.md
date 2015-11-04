@@ -1,5 +1,8 @@
 #### About
 
+xPlayer is a fork of Kodi which is an award software.Created in 2015 by Kevin.
+The goal is to play videos which the vendor's format as much as possible.
+
 Kodi is an award-winning free and open source (GPL) software media player and
 entertainment hub for digital media. Kodi is available for multiple platforms.
 Created in 2003 by a group of like minded programmers, Kodi is a non-profit
@@ -47,4 +50,4 @@ See [docs/README.xxx] (https://github.com/xbmc/xbmc/tree/master/docs) for specif
 * [Kodi community forums] (http://forum.kodi.tv/)
 * [Kodi website] (http://kodi.tv)
 
-#### Enjoy Kodi and help us improve it today. :)
+#### Enjoy xPlayer and help us improve it today. :)
